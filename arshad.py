@@ -147,8 +147,8 @@ logo2 = """
                                                             
                                                    
                          DON'T COPY MY SCRIPT
-                                      RED-MAFIA          
-                                        TNX(RK)
+                                      AKUNZADA          
+                                        USTAJEE
 ╔══──────────────────────────╗─══╗
 ║OWNER 💓💓💓 AKHUNZADA                              ║
 ║  GITHUB 💝💝💝 USTAJEE                       ║
@@ -158,8 +158,8 @@ logo2 = """
 ╚══──────────────────────────╝─══╝
 """
 print("""
-Owner: RED-MAFIA(R.K)
-Facebook: RIAZ-HACKER
+Owner: AKHUNZADA(P.K)
+Facebook: ARSHAD MAHMOOD
 
 """)
 CorrectUsername = "Akhunzada"
